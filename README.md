@@ -1,14 +1,7 @@
-### Hi there, I'm Alan 👋
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=alanjantz&theme=noctis_minimus&show_icons=true">
 
-My name is Alan, I live in Brazil and currently working for [@ambevtech](https://github.com/ambevtech). C# enthusiastic and corgi lover.
+## Hi there, I'm Alan 👋
+
+My name is Alan, I live in Brazil and currently working for [@ambevtech](https://github.com/ambevtech). C# enthusiast and corgi lover. 
 
 You can see what I'm doing [here](https://alanjantz.dev/) or contact me [here](https://www.linkedin.com/in/alanfelipejantz/).
-
----
-
-#### GitHub Stats
-[![card](https://github-readme-stats.vercel.app/api?username=alanjantz&theme=noctis_minimus&show_icons=true)](https://github.com/alanjantz/)
-
-[![alanjantz](https://github-readme-stats.vercel.app/api/top-langs/?username=alanjantz&hide=html&theme=noctis_minimus)](https://github.com/alanjantz/)
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=alanjantz.visitor-badge)
